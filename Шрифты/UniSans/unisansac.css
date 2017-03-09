@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'uni_sansthin_caps';
+    src: url('uni_sans_thin.eot');
+    src: url('uni_sans_thin.eot?#iefix') format('embedded-opentype'),
+         url('uni_sans_thin.woff') format('woff'),
+         url('uni_sans_thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'uni_sansheavy_caps';
+    src: url('uni_sans_heavy.eot');
+    src: url('uni_sans_heavy.eot?#iefix') format('embedded-opentype'),
+         url('uni_sans_heavy.woff') format('woff'),
+         url('uni_sans_heavy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'uni_sansthin_caps_italic';
+    src: url('uni_sans_thin_italic.eot');
+    src: url('uni_sans_thin_italic.eot?#iefix') format('embedded-opentype'),
+         url('uni_sans_thin_italic.woff') format('woff'),
+         url('uni_sans_thin_italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'uni_sansheavy_caps_italic';
+    src: url('uni_sans_heavy_italic.eot');
+    src: url('uni_sans_heavy_italic.eot?#iefix') format('embedded-opentype'),
+         url('uni_sans_heavy_italic.woff') format('woff'),
+         url('uni_sans_heavy_italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
